@@ -46,7 +46,7 @@ body {
 }
 
 .App {
-  background: url("./assets/bg7.jpg") no-repeat;
+  background: url("./assets/bg.jpeg") no-repeat;
   /* background: linear-gradient(to bottom right, hsl(173, 84%, 64%), hsl(157, 89%, 29%)); */
   /* background-color: #c2c2c2 !important; */
   background-size: cover;
