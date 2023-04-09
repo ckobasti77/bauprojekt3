@@ -50,7 +50,7 @@ body {
   /* background: linear-gradient(to bottom right, hsl(173, 84%, 64%), hsl(157, 89%, 29%)); */
   /* background-color: #e0e0e0 !important; */
   background-size: cover;
-  box-shadow: inset 0 0 0 2000px rgba(255, 255, 255, .7);
+  box-shadow: inset 0 0 0 2000px rgba(0, 0, 0, .5);
 }
 /* 
 .navbar {
@@ -80,7 +80,7 @@ input {
 .jezik-labels {
   border-bottom: 3px solid hsl(216, 12%, 74%);
   /* background: var(--secondary); */
-  color: var(--third);
+  color: var(--secondary);
   /* box-shadow: 3px 3px 1px #cacaca, -3px -3px 1px #f6f6f6; */
   transition: all 0.15s ease-in-out;
   border-radius: 0.5rem 0.5rem 0 0;
@@ -145,4 +145,5 @@ a {
 
 a:hover {
   transform: translateY(-4px);
+  color: var(--secondary);
 }
