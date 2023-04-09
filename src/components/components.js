@@ -4,6 +4,7 @@ import Request from "./Request";
 import Rules from "./Rules";
 import Footer from "./Footer";
 import Form from "./Form";
+import Input from "./Input";
 
 export {
     Navbar,
@@ -12,5 +13,6 @@ export {
     Rules,
     Footer,
     Form,
+    Input,
     
 }
